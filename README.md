@@ -1,4 +1,41 @@
-### Hi there 👋
+### Hi there 👋 - I am Luthfy Hakim
+
+### ✨ Welcome ✨
+<br>
+Nice To Meet You 😄
+<br><br>
+
+## 🌱 Positions
+
+Student of **_Baitul Qur'an Al-farisy_** and **_SmkN 2 Trenggalek_**
+
+## 💻 Experiences:
+
+- Java
+- Python 3
+- PHP 
+- Git (VCS)
+- Mysql, Sql Lite, Postgresql
+- Docker
+- Linux Environment
+
+## 🔍 Currently Learning:
+
+- Django 4
+- Laravel 9
+- Kotlin
+- Rest Api
+- Blockchain
+- Investment
+- Personal Finance
+
+---
+
+© 2022 — Luthfy Hakim
+
+
+
+
 
 <!--
 **luthfyhakim/luthfyhakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
