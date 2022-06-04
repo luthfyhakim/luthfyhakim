@@ -13,7 +13,8 @@ Student of **_Baitul Qur'an Al-farisy_** and **_SmkN 2 Trenggalek_**
 
 - Java
 - Python 3
-- PHP 
+- PHP
+- Node Js
 - Git (VCS)
 - Mysql, Sql Lite, Postgresql
 - Docker
@@ -25,9 +26,8 @@ Student of **_Baitul Qur'an Al-farisy_** and **_SmkN 2 Trenggalek_**
 - Laravel 9
 - Kotlin
 - Rest Api
-- Blockchain
-- Investment
-- Personal Finance
+- React Js
+- Next Js
 
 ---
 
